@@ -1,0 +1,30 @@
+[
+	{
+		"id": 33051253,
+		"mask": "istanbul.myftp.org",
+		"type": 2,
+		"detection_date": "12.09.2019 00:00",
+		"publication_name": "Dadiko Malware Targeting Governments"
+	},
+	{
+		"id": 33051254,
+		"mask": "venividivici.com.tr",
+		"type": 1,
+		"detection_date": "12.09.2019 00:00",
+		"publication_name": "Dadiko Malware Targeting Governments"
+	},
+	{
+		"id": 33035238,
+		"mask": "kln.turdns.com",
+		"type": 2,
+		"detection_date": "11.09.2019 00:00",
+		"publication_name": "ShaggyIsDead Abuses Server-Side Intrusion in 2019"
+	},
+	{
+		"id": 32889791,
+		"mask": "ageofempiroki.org",
+		"type": 1,
+		"detection_date": "02.09.2019 00:00",
+		"publication_name": "Monthly APT activity report - August 2019"
+	}
+]
